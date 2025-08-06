@@ -1,24 +1,24 @@
 [
   {
     "id": 1,
-    "title": "Krypt",
-    "description": "Android Campus Utility App",
+    "title": "Krypt (Campus Utility App)",
+    "description": "A secure app made for students of one university. Built with Java and XML for Android, aimed at simplifying daily campus activities.",
     "tech": ["Java", "Android Studio"],
     "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/krypt_final.png",
     "link": "https://github.com/Arpita-Das-2107021/app22"
   },
   {
     "id": 2,
-    "title": "Study Guide",
-    "description": "C++ OOP Lab Project",
+    "title": "Study Guide (An OOP Project)",
+    "description": "A C++-based study material organizer using OOP concepts like inheritance and polymorphism. Includes categorization features for better learning structure.",
     "tech": ["C++", "OOP"],
     "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/oop_final.png",
     "link": "https://github.com/Arpita-Das-2107021/oopLabProject"
   },
   {
     "id": 3,
-    "title": "Digital Clock",
-    "description": "Logisim Digital Clock Using Logic Circuits",
+    "title": "Digital Clock (Logisim)",
+    "description": "Built using combinational and sequential circuits. Displays time with logic gates and counters, showing hours, minutes, and seconds.",
     "tech": ["Digital Logic", "Logisim"],
     "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/logisim_final.png",
     "link": "#"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Console App with Numerical Methods",
-    "description": "C++ CLI App for Interpolation, Root Finding, ODE Solving",
+    "description": "CLI-based C++ app for root finding, interpolation, and ODE solving. Provides user-friendly method selection and clean output formatting.",
     "tech": ["C++", "Numerical Methods"],
     "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/numerical_final.png",
     "link": "https://github.com/Arpita-Das-2107021/Console-Application-Development-Using-Numerical-Methods"
