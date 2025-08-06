@@ -4,7 +4,7 @@
     "title": "Krypt",
     "description": "Android Campus Utility App",
     "tech": ["Java", "Android Studio"],
-    "image": "images/krypt_final.png",
+    "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/krypt_final.png",
     "link": "https://github.com/Arpita-Das-2107021/app22"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Study Guide",
     "description": "C++ OOP Lab Project",
     "tech": ["C++", "OOP"],
-    "image": "images/oop_final.png",
+    "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/oop_final.png",
     "link": "https://github.com/Arpita-Das-2107021/oopLabProject"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Digital Clock",
     "description": "Logisim Digital Clock Using Logic Circuits",
     "tech": ["Digital Logic", "Logisim"],
-    "image": "images/logisim_final.png",
+    "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/logisim_final.png",
     "link": "#"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Console App with Numerical Methods",
     "description": "C++ CLI App for Interpolation, Root Finding, ODE Solving",
     "tech": ["C++", "Numerical Methods"],
-    "image": "images/numerical_final.png",
+    "image": "https://raw.githubusercontent.com/Arpita-Das-2107021/projectList/main/images/numerical_final.png",
     "link": "https://github.com/Arpita-Das-2107021/Console-Application-Development-Using-Numerical-Methods"
   }
 ]
